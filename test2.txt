@@ -1,0 +1,105 @@
+aminpraz5S@gmail.com
+6285939005026
+Jagakarsa, Jakarta Selatan
+
+noord
+
+SKILLS
+
+BMC Control
+
+IBM 1As400
+
+Linux, Windows
+
+IBM Storage
+
+SOFT SKILLS
+
++ Leadership
+
++ Problem Solving
+
+LANGUAGE
+
+ENGLISH- ACTIVE
+
+AminPrastiawan
+
+System Engineer
+
+ 
+
+EXECUTIVE SUMMARY
+
+Fast learner, high responsible, good communication skill, able to adapt to environment, and also experienced
+works a personal as good as ateam and also interested to learn something new.
+
+ 
+
+WORK EXPERIENCE
+
+TECHNICAL CONSULTANT ANALYS:
+PT Mitra Integrasi Infromatika |April 2022- currently
+
+Responsible in maintenance and troubleshoot for BMC Control-M
+‘+ Maintain the availabilty ofthe system on DC and DRC Control-M Server.
+‘Maintain Control-M Application in Operational Condition.
++ Change Request,
+ion activity
+* Deployment new jobs
++ Perform Backup Activity on monthly basis such as
+* Control-M job
+* Credential Agent Control-m
++ Database Control-M Server, and Database Control-M EM Server.
++ Perform Setup for Control-M High Availability on Development site
++ Generate Control-M license usage on monthly basis.
++ Provide Monthly Report BAST.
+* Provide Documentation every activity on CantcolM.
++ Troubleshoot Error message
++ Entrusted Client are Permata Bank, BTPN, BTPNS
+
+  
+
+ 
+
+FIELD SERVICE ENGINEER
+PT Jasa Teknologi Inform:
+
+ 
+
+IM |September, 2024- May, 2022
+
+Support for handling higher severity problem that requires specific skill set platform System X, Storage
+«Handle Issue | Series IBM Power 7, Power 8 As400 and Peripherals,
++ Breakifix hardware server and storage
++ Perform relocation, migration, and firmware update
+* Install Server Lenovo and config,
+
+IR SERVICE ENGINEER
+PT Jasa Teknologi informasi IBM |September, 2020 - August, 2021
+
+Monitoring and trobleshoot Mainframe IBM, Z/OS, | Series IBM Power 7, Power 8 As400 and Peripherals,
+‘* Monitoring and troubleshoot | SeriesiBM Power 7, Power 8 As400 and Peripherals
+* Perform Report Utiity Server on Hourly basis.
+
+Perform Sharing Tape drive TS3500 between partition for backup restore activity
+
++ Perform Backup activity such as Object, Route, and Add Routing.
+
++ Perform Update PTF activity that continued to Restarting AS400 Server.
+
++ Provide Monthly Report BAST.
+
+‘+ Monitoring 24/7 resourcelissue on server Mainframe IBM
+
+ 
+
+EDUCATION
+
+ELECTRICAL ENGINEERING
+Gunadarma University
+GPA3.55/4.00
+
+August 2015 - November 2019
+
